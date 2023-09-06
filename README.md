@@ -4,6 +4,10 @@
 This Smart Contract Lottery App allows users to participate in a lottery using a smart contract deployed on the Ethereum blockchain.
 Developed in the hardhat environment. 
 
+
+## Live Link
+[Decentralized Lottery Live](https://web3-lottery.on.fleek.co/)
+
 ## Getting Started
 
 To run the Lottery application locally, follow these steps:
